@@ -1,17 +1,12 @@
 ---
 layout: default
-rbar:
-   - video
-   - calendar
-   - fb
-youtube:
-  id: 4tyiBvadxPc
-  #playlist: PLKqQxo2sZ8NfKKow6zTMyVZF7jfzpIMw9 
-  title: "Video"
-  button:
-    url: "https://www.youtube.com/channel/UCvW2nK5-N6vKnXX5LwPQmSg"
-    title: "Další videa na našem YouTube kanálu"
 ---
 
+{% include homepage/banner.html href="/volby-2020/" cta="Volby" title="Piráti Pardubického kraje" img="banner-default.jpg" %}
 
-{% include homepage/news-with-rbar.html %}
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>
