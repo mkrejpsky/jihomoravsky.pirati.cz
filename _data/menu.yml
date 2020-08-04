@@ -19,9 +19,6 @@ main:
   - link: /regiony/
     name: Místní sdružení
     match: regiony
-  - link: /pripoj-se/
-    name: Připoj se
-    match: pripoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
