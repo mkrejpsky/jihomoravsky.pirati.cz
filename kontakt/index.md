@@ -6,13 +6,13 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # noresidence: yes
 contentSize: even
 contactPersons:
-  - id: daniel.lebduska
+  - id: robert.cuma
     position: Předseda krajského sdružení
-  - id: martin.saifrt
+  - id: jana.leitnerova
     position: Kontakt pro novináře
-  - id: david.marhold
+  - id: marketa.tvrda
     position: Kontakt pro dobrovolníky
-  - id: ivana.mrkvickova
+  - id: vendula.svobodova
     position: Kontakt pro krajské volby 2020
 ---
 
