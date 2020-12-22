@@ -12,7 +12,7 @@ tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zeměd
 #authorId: petr.springinsfeld # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
 image: posts/uvodkaweb.png # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Proč řešíme těžbu štěrkopísku mezi Moravským Pískem a Uherským Ostrohem? Podrobné info o celé kauze.
-important: true
+
 ---
 
 Čelní kandidáti Pirátů v Jihomoravském kraji dnes na [tiskové konferenci](https://www.facebook.com/watch/live/?v=555584978444462){:target="_blank"} představili priority, se kterými se budou ucházet o hlasy voličů v podzimních krajských volbách. Ty se uskuteční 2. a 3. října, Piráti v Jihomoravském kraji sestavili samostatnou kandidátku.

@@ -1,10 +1,10 @@
 ---
-#název souboru: 2020-09-02-rozhovor-lukas-dubec-krajske-volby.md
+#název souboru: 2020-09-09-rozhovor-lukas-dubec-krajske-volby.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: "Lídr Pirátů Lukáš Dubec: Sucho ohrožuje jihomoravskou krajinu i krajský úřad"
-date: 2020-09-02   # formát YYYY-MM-DD
+date: 2020-09-09   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Piráti krajské-volby # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 
@@ -38,3 +38,5 @@ Určitě. Tyhle volby ale nejsou jen o mně. Jsme silný tým plný zkušených 
 **Co máš konkrétně na mysli?**
 
 Prvním krokem bude odstranění turniketů u vchodu. Politici mají sloužit lidem, takže tahle památka po dřívějším vedení půjde pryč, aby se za námi občané mohli kdykoli zastavit bez toho, aby je někdo u vchodu „lustroval“. Plánujeme také občany daleko více zapojovat do diskusí o směřování kraje, nechceme hlasy jen u voleb, nás zajímají názory občanů kdykoli. Ale chystáme toho mnohem víc. Těšíme se na to a já věřím, že získáme důvěru občanů a hlavně, že ji nezklameme.
+
+Přečtete si více o [našem programu](https://jihomoravsky.pirati.cz/program/){:target="_blank"} a podívejte se, [kdo všechno je na naší kandidátce](https://jihomoravsky.pirati.cz/kandidatka/){:target="_blank"}.

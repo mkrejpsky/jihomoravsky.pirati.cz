@@ -8,11 +8,10 @@ title: Chceme otevřenost a transparentnost v Blansku
 date: 2018-09-14   # formát YYYY-MM-DD
 author: Luboš Sedlák
 tags: otevřenost transparence blansko # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
 
 ### Nepovinné položky ###
 authorId: lubos.sedlak # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-# image: posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/logotyp_web.png
 
 ---
 

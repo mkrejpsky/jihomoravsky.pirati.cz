@@ -8,11 +8,10 @@ title: Proč nám koalice nezveřejnila článek?
 date: 2019-03-13   # formát YYYY-MM-DD
 author: Jaroslav Kameň
 tags: brno krpole participace # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
-image: brand/logo-cb.svg
 
 ### Nepovinné položky ###
 authorId: jaroslav.kupcik # ve formátu jmeno.prijmeni - prolinkování s profilem přes uid
-#image: posts/old_armenian_book.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/logotyp_web.png
 #description: Popis který se zobrazí v náhledu v přehledů článků.
 
 ---
