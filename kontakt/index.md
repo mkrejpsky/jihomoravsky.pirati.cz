@@ -8,7 +8,7 @@ contentSize: even
 contactPersons:
   - id: robert.cuma
     position: Předseda krajského sdružení
-  - id: jana.leitnerova
+  - id: filip.vitek
     position: Kontakt pro novináře
   - id: marketa.tvrda
     position: Kontakt pro dobrovolníky
