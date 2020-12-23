@@ -19,6 +19,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
+  - link: /piratske-centrum/
+    name: Pirátské centrum
+    match: piratske-centrum
   - link: /regiony/
     name: Místní sdružení
     match: regiony
