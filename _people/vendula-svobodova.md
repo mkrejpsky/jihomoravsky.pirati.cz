@@ -3,6 +3,7 @@ name: Vendula Svobodová   	# běžně používáné jméno
 mail:
 - vendula.svobodova@pirati.cz 
 img: people/vendula-svobodova.jpg   # 165x220px
+heroImg: header/palava_krajina.jpg
 description:  Koordinátorka KS Jihomoravský kraj  	# kratký popis, max 160 znaků
 uid: vendula.svobodova 
 category:                
