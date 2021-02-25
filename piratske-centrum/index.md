@@ -1,28 +1,27 @@
 ---
 layout: pirate-center
-description: V Pardubicích jsme otevřeli nové pirátské centrum pod zkratkou ParduPiCe. Centrum nabídne akce všeho druhu, cowork a dětský koutek.
+description: V Brně jsme otevřeli nové pirátské centrum pod zkratkou ŠPiCe. Centrum nabídne akce všeho druhu, cowork a dětský koutek.
 keywords: pardubice, pirátské-centrum, pardupice, centrum
-title: ParduPiCe - Pardubické pirátské centrum
-shorthand: ParduPiCe
+title: ŠPiCe - vítejte v novém pirátském centru v Brně
+shorthand: ŠPiCe
 openingHoursSEO: Mo-Fr 9:00-17:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
-heroDescription: V Pardubicích jsme otevřeli nové pirátské centrum pod zkratkou ParduPiCe.
+heroDescription: V Brně jsme otevřeli nové pirátské centrum pod zkratkou ŠPiCe.
 img: pardupice/1.jpg
 address: |
-  Pardubické pirátské centrum
-  Budova T-STRING
-  Masarykovo náměstí 1484
-  530 02 Pardubice I
-addressNote: Vstup do pirátského centra naleznete z boku budovy T-STRING naproti „AFI paláci“, vedle kadeřnictví. Vchod je v prostoru vjezdu na parkoviště ve vnitrobloku.
+  Pirate Space Brno
+  Údolní 37 (suterén)
+  60200 Brno 
+addressNote: Vstup do pirátského centra naleznete ...
 contactPersons:
   - id: filip.varecha
     description: Správce coworku
   - id: jan.bednar
     description: Produkce
-calendarId: t60uj67580oudjh04tuh5icl8o@group.calendar.google.com
+calendarId: 83gt9iadln80efaknuodkg1qh@group.calendar.google.com
 calendarTitle: Kalendář akcí
-calendarPage: https://calendar.google.com/calendar/embed?src=t60uj67580oudjh04tuh5icl8o%40group.calendar.google.com&ctz=Europe%2FPrague
-mapIframeLink: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10250.279531989467!2d15.770466!3d50.0381549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4d03352a17e038b!2zUGFyZHVQaUNlIOKAkyBQYXJkdWJpY2vDqSBQaXLDoXRza8OpIGNlbnRydW0!5e0!3m2!1scs!2scz!4v1568565921492!5m2!1scs!2scz
+calendarPage: https://calendar.google.com/calendar/embed?src=83gt9iadln80efaknuodkg1qh4%40group.calendar.google.com&ctz=Europe%2FPrague
+mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.89193042543496!2d16.597150391992642!3d49.19799011811367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47129445f6c71b15%3A0xba3b3dcaba3a0c4b!2sPirate%20Space%20Brno!5e0!3m2!1scs!2scz!4v1614288265582!5m2!1scs!2scz
 ---
 
 **U nejstaršího českého městského parku v Lužánkách vzniklo nové pirátské centrum s názvem ŠPiCe. Jde o kontaktní místo, kde se dozvíte všechny informace o pirátském působení nejen v Brně a Jihomoravském kraji. Vítáni jsou všichni příznivci i zájemci o členství. Konají se zde pirátské akce a v neposlední řadě zde najdete pirátské poslance a europoslance (a jejich asistentky).**
