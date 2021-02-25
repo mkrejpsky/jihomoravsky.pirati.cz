@@ -14,11 +14,9 @@ address: |
   60200 Brno 
 addressNote: Vstup do pirátského centra naleznete ...
 contactPersons:
-  - id: filip.varecha
+  - id: vendula.svobodova
     description: Správce coworku
-  - id: jan.bednar
-    description: Produkce
-calendarId: 83gt9iadln80efaknuodkg1qh@group.calendar.google.com
+calendarId: 83gt9iadln80efaknuodkg1qh4@group.calendar.google.com
 calendarTitle: Kalendář akcí
 calendarPage: https://calendar.google.com/calendar/embed?src=83gt9iadln80efaknuodkg1qh4%40group.calendar.google.com&ctz=Europe%2FPrague
 mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.89193042543496!2d16.597150391992642!3d49.19799011811367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47129445f6c71b15%3A0xba3b3dcaba3a0c4b!2sPirate%20Space%20Brno!5e0!3m2!1scs!2scz!4v1614288265582!5m2!1scs!2scz
@@ -51,37 +49,4 @@ Až pominou všechna omezení v souvislosti s koronavirem, plánujeme pořádat
 - ŠPiCe se nachází ve 3. patře s prostorným výtahem. Před budovou je nájezd pro osoby se sníženou pohyblivostí.
 Šetrně k životnímu prostředí
 
-## Třídíme odpad. Zn. pečlivě. 
-
-<div>
-{% include buttons/icon.html href="https://mrak.pirati.cz/s/JDg5aNSGcWCXkc6" target="_blank" cta="Provozní řád" icon="ico--book" %}
-</div>
-
-
-## Dětský koutek
-
-Pro rodiče nabízíme vybavený dětský koutek s pracovním místem. Dětský koutek je
-vybaven hračkami pro děti všech věkových kategorií.
-
-## Pořádání akcí
-
-V rámci pirátského centra probíhají akce všeho druhu:
-
-- přednášky
-- vzdělávací akce
-- workshopy
-- kulturní akce
-- večery deskových her
-
-Máte námět na vlastní akci? <a href="#">Dejte nám vědět</a>. ParduPiCe je zdarma
-k dispozici pro akce nekomerční povahy.
-
-
-## Chci podpořit provoz
-
-Pokud chcete ParduPiCe podpořit, můžete nám poslat účelový dar na jeho provoz
-převodem na účet. Pro platbu použijte následující údaje:
-
-| Číslo transparentního účtu | Specifický symbol |
-|----------------------------|-------------------|
-| 2100048174/2010            | 400802            |
+## Třídíme odpad. Zn. pečlivě.
