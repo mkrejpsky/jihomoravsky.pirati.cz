@@ -10,7 +10,7 @@ residences:
                           Údolní 37 (suterén)
                           60200 Brno
    spravce: vendula.svobodova
-   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/miscellaneous/residence.png'
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Poslanecká kancelář <br> Tomáš Vymazal
   # url: https://www.facebook.com/PirateSpaceBrno/
@@ -18,7 +18,7 @@ residences:
     Kopečná 940
     Brno, 602 00
    spravce: petra.vymazalova
-   #residenceImg: miscellaneous/residence.png
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
  - name: Poslanecká kancelář <br> Radek Holomčík
   # url: https://www.facebook.com/PirateSpaceBrno/
@@ -26,7 +26,7 @@ residences:
     Kostelní 1407
     Strážnice, 696 62
    spravce: simona.kollarova
-   #residenceImg: miscellaneous/residence.png
+   residenceImg: 'https://a.pirati.cz/jihomoravsky/img/header/spice_jmk_1.jpg'
    #mapLink: "SCcP8sLSHGg5pSBr8"
 ---
 
