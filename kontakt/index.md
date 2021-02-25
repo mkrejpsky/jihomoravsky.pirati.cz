@@ -28,17 +28,6 @@ residences:
    spravce: simona.kollarova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
-contactPersons:
- - id: robert.cuma
-   position:  Předseda KS Jihomoravský kraj 
- - id: tomas.kolacny
-   position:  Předseda MS Brno 
- - id: filip.vitek
-   position: Kontakt pro média
- - id: vendula.svobodova
-   position: Kontakt pro dobrovolníky
- - id: marketa.tvrda
-   position: Kontakt pro veřejnost
 ---
 
 
