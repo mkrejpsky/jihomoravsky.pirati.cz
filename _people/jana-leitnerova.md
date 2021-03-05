@@ -10,9 +10,7 @@ heroImg: header/palava_krajina.jpg
 description: Radní pro sociální a rodinnou politiku v JMK  	# kratký popis, max 160 znaků
 category:  
 - zjmk
-- kontaktni_osoba
 ordzjmk: 3
-contactType: Média
 
 ### Nepovinné položky
 uid: jana.leitnerova # identifikátor pro spojení se články (authorId)
