@@ -2,10 +2,7 @@
 layout: default
 ---
 
-{% capture imgPath %}{% asset "https://a.pirati.cz/jihomoravsky/img/header/palava_krajina.jpg" @path %}{% endcapture %}
-{% assign imgPath = imgPath | absolute_url %}
-
-{% include hero/simple.html headline="Piráti Jihomoravského kraje" description="Držíme směr!" bgImg=imgPath %}
+{% include hero/simple.html headline="Piráti Jihomoravského kraje" description="Držíme směr!" bgImg=https://a.pirati.cz/jihomoravsky/img/header/palava_krajina.jpg %}
 
 <div class="container container--default lg:pb-24">
   {% include homepage/news.html %}
