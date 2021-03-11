@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% include hero/simple.html ¨headline="Piráti Jihomoravského kraje" description="Makáme v opozici. Držíme směr!" img="header/palava_krajina.jpg" %}
+{% capture imgPath %}{% asset "header/palava_krajina.jpg" @path %}{% endcapture %}
+{% assign imgPath = imgPath | absolute_url %}
+
+{% include hero/simple.html headline="Piráti Jihomoravského kraje" description="Makáme v opozici. Držíme směr!" bgImg=imgPath %}
 
 <div class="container container--default lg:pb-24">
   {% include homepage/news.html %}
