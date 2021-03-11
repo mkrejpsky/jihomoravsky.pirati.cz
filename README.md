@@ -1,4 +1,4 @@
-# pardubicky.pirati.cz
+# jimohoravsky.pirati.cz
 
 ## Obsah
 
