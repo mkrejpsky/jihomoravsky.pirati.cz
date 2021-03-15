@@ -18,7 +18,7 @@ residences:
    Lidická 960/81
    Brno, 602 00
    spravce: petra.vymazalova
-   #residenceImg: miscellaneous/residence.png
+   #residenceImg: miscellaneous/icone_person.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
  
  - name: Poslanecká kancelář <br> Radek Holomčík
@@ -27,7 +27,7 @@ residences:
    Kostelní 1407
    Strážnice, 696 62
    spravce: simona.kollarova
-   #residenceImg: miscellaneous/residence.png
+   #residenceImg: miscellaneous/icone_person.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
 contactPersons:
  - id: robert.cuma
