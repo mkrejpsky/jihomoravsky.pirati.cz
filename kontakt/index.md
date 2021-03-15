@@ -18,15 +18,14 @@ residences:
    Lidická 960/81
    Brno, 602 00
    spravce: petra.vymazalova
-   #mapLink: "SCcP8sLSHGg5pSBr8"
  
- - name: Poslanecká kancelář <br> Radek Holomčík
-  # url:
+- name: Poslanecká kancelář <br> Radek Holomčík
+# url:
    address: |
    Kostelní 1407
    Strážnice, 696 62
    spravce: simona.kollarova
-   #mapLink: "SCcP8sLSHGg5pSBr8"
+
 contactPersons:
  - id: robert.cuma
    position:  Předseda KS Jihomoravský kraj 
