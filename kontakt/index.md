@@ -3,28 +3,29 @@ layout: contacts
 # contentSize: big
 contentSize: even
 residences:
- - name: Pirate Space Brno
+- name: Pirate Space Brno
 # Kontaktní a pracovní centrum
    url: https://www.facebook.com/PirateSpaceBrno/
    address: |
-                          Údolní 37 (suterén)
-                          60200 Brno
+   Údolní 37 (suterén)
+   60200 Brno
    spravce: vendula.svobodova
    residenceImg: 'https://a.pirati.cz/jihomoravsky/img/miscellaneous/residence.png'
-   mapLink: "SCcP8sLSHGg5pSBr8"
- - name: Poslanecká kancelář <br> Tomáš Vymazal
-  # url: https://www.facebook.com/PirateSpaceBrno/
+
+- name: Poslanecká kancelář <br> Tomáš Vymazal
+# url: 
    address: |
-    Lidická 960/81
-    Brno, 602 00
+   Lidická 960/81
+   Brno, 602 00
    spravce: petra.vymazalova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
+ 
  - name: Poslanecká kancelář <br> Radek Holomčík
-  # url: https://www.facebook.com/PirateSpaceBrno/
+  # url:
    address: |
-    Kostelní 1407
-    Strážnice, 696 62
+   Kostelní 1407
+   Strážnice, 696 62
    spravce: simona.kollarova
    #residenceImg: miscellaneous/residence.png
    #mapLink: "SCcP8sLSHGg5pSBr8"
@@ -33,6 +34,10 @@ contactPersons:
    position:  Předseda KS Jihomoravský kraj 
  - id: tomas.kolacny
    position:  Předseda MS Brno 
+ - id: petr.vlasak
+   position:  Předseda MS Slovácko
+ - id: lukas.dubec
+   position:  Předseda MS Znojemsko  
  - id: filip.vitek
    position: Kontakt pro média
  - id: vendula.svobodova
