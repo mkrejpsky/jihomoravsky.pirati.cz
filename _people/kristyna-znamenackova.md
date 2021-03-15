@@ -7,7 +7,6 @@ titles:
 mail:
 - kristyna.znamenackova@pirati.cz
 img: people/kristyna-znamenackova.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Učitelka hudby 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

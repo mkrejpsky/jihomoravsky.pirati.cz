@@ -9,7 +9,6 @@ titles:
 mail:
 - p.jaklova@centrum.cz
 img: people/pavla-jaklova.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Mateřská dovolená 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

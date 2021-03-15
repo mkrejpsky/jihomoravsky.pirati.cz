@@ -9,7 +9,6 @@ titles:
 mail:
 - lubos.sedlak@pirati.cz
 img: people/lubos-sedlak.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Student AF Mendelu 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

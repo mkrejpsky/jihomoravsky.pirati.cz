@@ -9,7 +9,6 @@ titles:
 mail:
 - petr.vlasak@breclav.eu
 img: people/petr-vlasak.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Učitel, kulturní buditel a předseda MS Slovácko 	# kratký popis, max 160 znaků
 uid: petr.vlasak # identifikátor 
 

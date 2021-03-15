@@ -4,7 +4,6 @@ name:     Vít Jurásek  	# běžně používáné jméno
 category:                 	# kategorie: kandidat, pks, zastupitel
 
 img: people/vit-jurasek.jpg   # 165 x 220
-heroImg: header/palava_krajina.jpg
 description: Živnostník, programátor a softwarový architekt  	# kratký popis, max 160 znaků
 mail:
 - vit.jurasek@pirati.cz

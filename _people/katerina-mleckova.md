@@ -9,7 +9,6 @@ titles:
 mail:
 - katamleckova@gmail.com
 img: people/katerina-mleckova.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Urban elfka 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

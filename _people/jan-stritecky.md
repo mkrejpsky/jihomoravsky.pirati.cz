@@ -9,7 +9,6 @@ titles:
 mail:
 - j.stritecky@seznam.cz
 img: people/jan-stritecky.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Lektor a překladatel 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

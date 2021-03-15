@@ -9,7 +9,6 @@ titles:
 mail:
 - silvie.mrkvanova@seznam.cz
 img: people/silvie-mrkvanova2.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Obchodnice v reklamě a jednatelka zahrádkářů 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky

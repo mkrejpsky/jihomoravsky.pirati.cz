@@ -5,8 +5,7 @@
 name: Barbora Turek Lahová 	# běžně používáné jméno
 mail:
 - barbora.lahova@gmail.com
-img: barbora_lahova_web_new.jpg # 165x220px
-heroImg: header/palava_krajina.jpg
+img: people/barbora_lahova_web_new.jpg # 165x220px
 description: Členka redakční rady Hodonínských listů 	# kratký popis, max 160 znaků
 category:  
 

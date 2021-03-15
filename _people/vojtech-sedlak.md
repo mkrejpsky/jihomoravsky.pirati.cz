@@ -7,7 +7,6 @@ titles:
 mail:
 - vojtech@sedlax.cz
 img: people/vojtech-sedlak.jpg   # 165x220px
-heroImg: header/palava_krajina.jpg
 description: Produkční 	# kratký popis, max 160 znaků
 
 ### Nepovinné položky
